@@ -1,0 +1,2 @@
+./fora query --algo fora --prefix ./data/ --dataset webstanford --epsilon 0.5 --query_size 20
+./fora parallel_query --algo fora --prefix ./data/ --dataset LJ --epsilon 0.5 --query_size 20
